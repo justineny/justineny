@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justineny
 - 👀 I’m interested in reading and building legos!
-- 🌱 I’m currently learning IOS Development
-- 💞️ I’m looking to collaborate on anything IOS Development related!
+- 🌱 I’m currently learning fullstack/web development
+- 💞️ I’m looking to collaborate on anything Web Development related!
 - 📫 How to reach me ... justinenyglesias@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Buldok ramen ☺️
